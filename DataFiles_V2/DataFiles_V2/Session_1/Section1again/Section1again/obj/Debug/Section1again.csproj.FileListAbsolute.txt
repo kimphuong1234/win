@@ -1,0 +1,16 @@
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Section1again\Section1again\obj\Debug\Section1again.csprojAssemblyReference.cache
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Section1again\Section1again\obj\Debug\Section1again.Login.resources
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Section1again\Section1again\obj\Debug\Section1again.Properties.Resources.resources
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Section1again\Section1again\obj\Debug\Section1again.csproj.GenerateResource.cache
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Section1again\Section1again\obj\Debug\Section1again.csproj.CoreCompileInputs.cache
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Section1again\Section1again\bin\Debug\Section1again.exe.config
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Section1again\Section1again\bin\Debug\Section1again.exe
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Section1again\Section1again\bin\Debug\Section1again.pdb
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Section1again\Section1again\obj\Debug\Section1again.exe
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Section1again\Section1again\obj\Debug\Section1again.pdb
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Section1again\Section1again\bin\Debug\Administrator.resx
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Section1again\Section1again\bin\Debug\Administrator.cs
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Section1again\Section1again\bin\Debug\Administrator.Designer.cs
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Section1again\Section1again\obj\Debug\Section1again.Administrator.resources
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Section1again\Section1again\obj\Debug\Section1again.AutomationSystem.resources
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Section1again\Section1again\obj\Debug\Section1again.monitoring_activities.resources

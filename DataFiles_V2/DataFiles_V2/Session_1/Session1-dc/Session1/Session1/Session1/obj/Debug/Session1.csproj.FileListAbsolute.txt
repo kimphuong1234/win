@@ -1,0 +1,39 @@
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1\Session1\bin\Debug\Session1.exe.config
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1\Session1\bin\Debug\Session1.exe
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1\Session1\bin\Debug\Session1.pdb
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1\Session1\obj\Debug\Session1.csprojAssemblyReference.cache
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1\Session1\obj\Debug\Session1.Login.resources
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1\Session1\obj\Debug\Session1.Properties.Resources.resources
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1\Session1\obj\Debug\Session1.csproj.GenerateResource.cache
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1\Session1\obj\Debug\Session1.csproj.CoreCompileInputs.cache
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1\Session1\obj\Debug\Session1.exe
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1\Session1\obj\Debug\Session1.pdb
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1\Session1\obj\Debug\Session1.Adduser.resources
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1\Session1\obj\Debug\Session1.Administrator.resources
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1\Session1\obj\Debug\Session1.EditRole.resources
+C:\Users\Truong Tran\Desktop\Kim-Phượng\Kim Phượng\Session1\Session1\bin\Debug\Session1.exe.config
+C:\Users\Truong Tran\Desktop\Kim-Phượng\Kim Phượng\Session1\Session1\bin\Debug\Session1.exe
+C:\Users\Truong Tran\Desktop\Kim-Phượng\Kim Phượng\Session1\Session1\bin\Debug\Session1.pdb
+C:\Users\Truong Tran\Desktop\Kim-Phượng\Kim Phượng\Session1\Session1\obj\Debug\Session1.csprojAssemblyReference.cache
+C:\Users\Truong Tran\Desktop\Kim-Phượng\Kim Phượng\Session1\Session1\obj\Debug\Session1.Adduser.resources
+C:\Users\Truong Tran\Desktop\Kim-Phượng\Kim Phượng\Session1\Session1\obj\Debug\Session1.Administrator.resources
+C:\Users\Truong Tran\Desktop\Kim-Phượng\Kim Phượng\Session1\Session1\obj\Debug\Session1.EditRole.resources
+C:\Users\Truong Tran\Desktop\Kim-Phượng\Kim Phượng\Session1\Session1\obj\Debug\Session1.Login.resources
+C:\Users\Truong Tran\Desktop\Kim-Phượng\Kim Phượng\Session1\Session1\obj\Debug\Session1.Properties.Resources.resources
+C:\Users\Truong Tran\Desktop\Kim-Phượng\Kim Phượng\Session1\Session1\obj\Debug\Session1.csproj.GenerateResource.cache
+C:\Users\Truong Tran\Desktop\Kim-Phượng\Kim Phượng\Session1\Session1\obj\Debug\Session1.csproj.CoreCompileInputs.cache
+C:\Users\Truong Tran\Desktop\Kim-Phượng\Kim Phượng\Session1\Session1\obj\Debug\Session1.exe
+C:\Users\Truong Tran\Desktop\Kim-Phượng\Kim Phượng\Session1\Session1\obj\Debug\Session1.pdb
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1-dc\Session1\Session1\Session1\bin\Debug\Session1.exe.config
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1-dc\Session1\Session1\Session1\bin\Debug\Session1.exe
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1-dc\Session1\Session1\Session1\bin\Debug\Session1.pdb
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1-dc\Session1\Session1\Session1\obj\Debug\Session1.csprojAssemblyReference.cache
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1-dc\Session1\Session1\Session1\obj\Debug\Session1.Adduser.resources
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1-dc\Session1\Session1\Session1\obj\Debug\Session1.Administrator.resources
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1-dc\Session1\Session1\Session1\obj\Debug\Session1.EditRole.resources
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1-dc\Session1\Session1\Session1\obj\Debug\Session1.Login.resources
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1-dc\Session1\Session1\Session1\obj\Debug\Session1.Properties.Resources.resources
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1-dc\Session1\Session1\Session1\obj\Debug\Session1.csproj.GenerateResource.cache
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1-dc\Session1\Session1\Session1\obj\Debug\Session1.csproj.CoreCompileInputs.cache
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1-dc\Session1\Session1\Session1\obj\Debug\Session1.exe
+D:\Kỳ 1 năm 4\Lập trình windows\GiaiphapphanmemCNTT_Quốc gia 2018\Dethi_GPPM_CNTT\DataFiles_V2\DataFiles_V2\Session_1\Session1-dc\Session1\Session1\Session1\obj\Debug\Session1.pdb

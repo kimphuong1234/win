@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<log>
+	<user>
+		<email>h.wyrick@amonic.com</email>
+		<timelogin>12/12/2020 12:00:00</timelogin>
+		<timeloout>12/12/2020 15:00:00</timeloout>
+		<reason>null</reason>
+		<solution>null</solution>
+	</user>
+	<user>
+		<email>h.wyrick@amonic.com</email>
+		<timelogin>12/12/2020 12:00:00</timelogin>
+		<timeloout>12/12/2020 15:00:00</timeloout>
+		<reason>null</reason>
+		<solution>null</solution>
+	</user>
+	<user>
+		<email>h.wyrick@amonic.com</email>
+		<timelogin>12/12/2020 12:00:00</timelogin>
+		<timeloout>12/12/2020 15:00:00</timeloout>
+		<reason>null</reason>
+		<solution>null</solution>
+	</user>
+</log>
